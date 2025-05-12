@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6a380d847a4b91a45a570f3d96edcf7d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292043
+  packageName: Clean Multiplayer Pro (2D)
+  packageVersion: 1.0
+  assetPath: Assets/Clean Multiplayer Pro 2D/Scripts/Player/PopUp.cs
+  uploadId: 721962

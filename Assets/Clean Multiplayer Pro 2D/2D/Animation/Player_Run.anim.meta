@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 61d8ccf0d78f99545ac761cbadc8e4c7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292043
+  packageName: Clean Multiplayer Pro (2D)
+  packageVersion: 1.0
+  assetPath: Assets/Clean Multiplayer Pro 2D/2D/Animation/Player_Run.anim
+  uploadId: 721962

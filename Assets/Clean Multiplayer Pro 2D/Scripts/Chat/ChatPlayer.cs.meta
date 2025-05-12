@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9e2acb4d9714ff240b43aa6adb29c3c6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292043
+  packageName: Clean Multiplayer Pro (2D)
+  packageVersion: 1.0
+  assetPath: Assets/Clean Multiplayer Pro 2D/Scripts/Chat/ChatPlayer.cs
+  uploadId: 721962

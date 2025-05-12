@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "311997551173",
+    "project_id": "children-game-bb822",
+    "storage_bucket": "children-game-bb822.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311997551173:android:c5f67c00fb9aa2ebb0892c",
+        "android_client_info": {
+          "package_name": "com.GradProject.AndroidChildrenGame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrjItsY6Uq32lQGXHwLs9i-Hba7QJUOQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c20308b0e23b78d4c85098af31f19cb4
+timeCreated: 1473362089
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292043
+  packageName: Clean Multiplayer Pro (2D)
+  packageVersion: 1.0
+  assetPath: Assets/Clean Multiplayer Pro 2D/2D/SpriteGlow/Resources/SpriteGlow/Shaders/SpriteOutline.shader
+  uploadId: 721962

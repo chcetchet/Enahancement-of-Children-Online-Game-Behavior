@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 087347915913b0f46a823d04206ded8b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292043
+  packageName: Clean Multiplayer Pro (2D)
+  packageVersion: 1.0
+  assetPath: Assets/Clean Multiplayer Pro 2D/Scenes/Game/LightingData.asset
+  uploadId: 721962

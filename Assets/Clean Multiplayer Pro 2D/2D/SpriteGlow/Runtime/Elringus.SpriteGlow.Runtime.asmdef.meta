@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c7027099d74e3bf40a721835d6ab892e
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292043
+  packageName: Clean Multiplayer Pro (2D)
+  packageVersion: 1.0
+  assetPath: Assets/Clean Multiplayer Pro 2D/2D/SpriteGlow/Runtime/Elringus.SpriteGlow.Runtime.asmdef
+  uploadId: 721962
