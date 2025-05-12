@@ -14,16 +14,16 @@ This game combines adventure-based gameplay with educational puzzles and teamwor
 
 -  Multiplayer mode with collaborative challenges
 -  Chat system with real-time **toxic language detection** using Google's Perspective API
--  **Playtime limit** feature (15–60 mins)
+-  **Playtime limit** feature (60 mins max)
 -  **Physical activity reminder** every 5 minutes
 -  Educational puzzles and mini-games
--  Behavior monitoring and warning system (3-strike chat ban)
+-  Behavior monitoring and warning system (3-warnings chat ban)
 
 ##  Technologies Used
 
 - Unity Engine (C#)
 - Google Perspective API (for toxicity detection)
-- Photon Unity Networking (PUN) (used for multiplayer)
+- Photon Unity Networking (PUN) (for multiplayer)
 - Version Control: Git & GitHub
 
 ##  How to Run the Game
